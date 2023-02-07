@@ -1,0 +1,51 @@
+Fungal Mage
+An explorer keen on knowledge and adventure, fit to travel the under and overworlds.
+
+Fungal Hop
+You can summon clouds below you and hop on them.
+Cost: 10 Fungus Mana 
+You can use similar magic to boost yourself while gliding with an elytra, but you cannot use fireworks.
+Cost: 20 Fungus Mana
+You can also stop yourself mid flight. 
+Cost: 5 Fungus Mana
+
+Dash
+You can enter a veil of magic, throwing you forwards and making you invulnerable, invisible and unable activate pressure plates.
+Cost: 10 Fungus Mana
+You become immune to fall damage if falling from a height of 5 blocks or less, or crouching. However, you must have Fungus Mana.
+
+Sporous Relocation
+You can channel and condense warped spores into a magical laser, infusing them with magic. You will be teleported where they land, or where the laser stops.
+Cost: 20 Fungus Mana
+
+Fungus Mana
+The mystic aura that all fungi contain. You can harness it and use it as magic energy but without it, you are powerless. Gain Fungus Mana by standing on mycelium. warped nylium, or crimson nylium.
+Having any Fungus Mana at all will give you a speed boost (but when its empty you will be slower), and when your bar is full, you will be saturated.
+Being damaged for 1 heart or more will drain 60 Fungus Mana, and you will be unable to regain any for 3 seconds. Dealing 1 heart or more of damage to an entity will trigger this same effect.
+You can consume mushrooms or fungi to quickly gain Fungus Mana while traveling.
+While your Fungus Mana is full you will heal half a heart and 1 hunger shank every 2 seconds.
+You can turn dirts/grasses into mycelium and netherrack into crimson nylium by right clicking them with an open hand at the cost of hunger.
+
+Detrimental
+The combination of your Fungus Mana and your body makes food mostly useless to you. While you can still reap the benefits of shimmering foods, your hunger bar has no effect on your health. You must instead rely on your Fungus Mana to heal you.
+
+Magical Essence
+You are naturally protected from fire and poison, as long as you have Fungus Mana.
+
+Shroom Stature
+You have only 8 hearts, because you care little for your physical form. You will be reduced to 6 when without Fungus Mana. Berry bushes will not puncture your fungal skin.
+You enhance your eyes with magic. You have night vision as long as you have Fungus Mana.
+
+Bioluminescence
+You glow to other players when in a light level of 0.
+
+Gaia's Frequency
+You have mastered the way of the earth, allowing you to mine red and brown mushroom blocks when sneaking as if you had silk touch.
+
+Bookworm
+You can craft mushroom blocks and bundles, ride mooshrooms, and you can brew up a killer mushroom stew.
+
+Fungal Infusion
+You can fuse the Magi Mushroom with certain item, granting them power. Create the Magi Mushroom by right clicking blaze power atop red mushrooms in your inventory.
+Items that you can infuse will be common in either exploration or nature.
+Once items are fused, only Fungal Magi can use them.

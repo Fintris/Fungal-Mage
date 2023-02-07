@@ -1,0 +1,123 @@
+V2.9.6
+-Added "Dealing 1 heart or more of damage to an entity will trigger this same effect." bit in Fungus Mana badge, and added complimentary advancement
+-Fixed "Made it so the 2 second Fungus Mana regain disable isnt just not a thing (it actually works now) + made it 3 seconds instead of 2" so it actually actually actually actually works now
+-Added ", but you cannot use fireworks." to Fungal Hop
+-Changed sounds when damaged
+-Added vfx and sfx when attacking an entity
+-Changed the drain and dampen when being damaged to only activate when taking 1 heart or more
+-Added Fungal Infusion
+-Fixed the same bugs like 10x bc I kept forgetting which Fungal Mage folder was which
+
+
+
+V2.9.5 Changes
+-Added sounds and particles when damaged
+-Intertwined particles of other fungal blocks into powers, relating to their function
+-Made Sporous Relocation less likely to suffocate you upon hitting any block whatsoever
+-Changed some stuff with the Spectral Spore(Weapon that the origin does not include.)
+-Changed origin description (twice)
+-Added titles when Fungus Mana is disabled
+-Added particles when landing while crouching
+-Made it so the 2 second Fungus Mana regain disable isnt just not a thing (it actually works now) + made it 3 seconds instead of 2
+-Added Gaia's Frequency power
+-Seperated V2.9.4 and V2.9.5 at a random point so they just are different now
+-Seperated the bit about being damaged draining Mana from the benefits of having Fungus Mana
+-Added a couple passive effects (hidden)
+
+V2.9.4 Changes
+-Added Tooltips for consumeable mushrooms
+-Made mushroom blocks craftable
+-Fixed some issues with Dash and Sporous Relocation Invisibility
+-Made Dripstone, Cacti, arrows, and Suffocation no longer drain your Fungus Mana
+-VFX and SFX Changes
+-Made you gain saturation every 2 seconds when Fungus Mana full
+-Changed namespace from "shroom" to "fungal_mage"
+-Tweaked Dash power
+-Tweaked Fungal Hop power
+-Tweaked Fungal Hop w Elytra
+-Fixed typo in Detrimental
+
+V2.9.3 Changes
+-Added a few Advancements
+-Made fall damage not reduce Fungus Mana
+-Updated Fungus Mana badge to mention the speed debuff when out of Fungus Mana
+-Made Sporous Relocation and Fungal Hop reset fall distance
+
+V2.9.2 Changes (Cohesion Update)
+-Removed hidden impact damage immunity
+-Changed fall immunity to only trigger when crouching
+-Buffed velocity Dash gives
+-Added slowness debuff when Fungus Mana is empty
+-Made Magical Essence and fall immunity only grant their effects if you have Fungus Mana
+-Added Bookworm power
+-Made night vision only work if you had Fungus Mana
+-Added Detrimental power
+-Added Regen badge to Fungus Mana power
+-Added Fall Immunity when falling from 5 blocks or less
+-Added a few Advancements
+-Made fall damage not reduce Fungus Mana
+-Updated Fungus Mana badge to mention the speed debuff when out of Fungus Mana
+
+
+V2.9.1 Changes (Compatibility Update)
+-Removed the multiple replenish powers and condensed them all into a tag allowing for support
+-Added support for the following mods:
+Promenade
+Cinderscapes
+Biome Makeover
+BYG (Oh The Biomes You'll Go)
+Better End
+Better Nether
+Enderscape
+Eden Ring
+-Cleaned up code a bit
+
+V2.9 Changes (Balancing Update)
+-Made Fungus Mana drain on hit 60 instead of 50, resulting in 5 hits to drain it all
+-Changed VFX, SFX, and nerfed Fungal Hop with Elytra
+-Added the ability to stop elytra flight
+-Nerfed speed boost with Fungus Mana
+-Removed Agility
+-Made Sporous Relocation work in water
+-Fought the owner of a server tryna ruin this holy origin
+-Modifed Shroom Stature to have 8 hearts normally but 6 when empty Fungus Mana
+-Added the inability to gain Fungus Mana for 2 seconds after being hit
+-Made Dash work in liquids
+-Added Neville Longtentacle#7942 to credits for design input
+
+V2.8.1 Changes
+-Removed swim and sight in lava
+-Increased Fungal Hop's cooldown to 15 ticks
+-Buffed Fungus Mana when standing on fungal terrain
+
+V2.8 Changes
+-Updated powerlist.txt to include hidden powers
+-Added sounds that only you can hear when Fungus Mana runs out or maxes out
+-Changed the "And You Can Cook?" advancement to activate when consuming mushroom stew + made only Fungal Mage able to get it
+-Changed the "Forgotten Relation" advancement to activate when consuming chorus fruit + made only Fungal Mage able to get it
+-Added ability to craft bundles with rabbit hide
+-Added ability to craft mushroom stew with nether mushrooms
+-Added Berry Bush immunity
+-Fixed spelling & grammar errors
+-Fixed the issues with Mooshroom Riding
+-Made "Fungus Mana" description more accurate to the lore
+-Changed "Teleport Spell" power to "Sporous Relocation" and improved description
+-Changed Star and Arrow badges to be Warped Fungus and Bone Meal
+
+V2.7 Changes
+-Removed "Nap Time" power
+-Added the ability to ride Mooshrooms
+-Added Advancements
+-Added/modified Bioluminescence 
+-Added "Credits" power
+-Seperated "Agility" and "Dash" power descriptions
+-Added extra information on the mushroom turning of terrain
+-"Agility" power now includes fall immunity information instead of "Magical Essence"
+-Added particles based on Fungus Mana level
+-Added particles when absorbing Fungus Mana on fungal terrain.
+
+V2.6 and earlier versions Changes
+-Removed Adventurer's Artifacts
+-Changed dash to activate on primary while on the ground + modified it (by Rinkakyu)
+-Added Ability to consume fungi for Fungus Mana
+-Made mushroom stew give Fungus Mana
